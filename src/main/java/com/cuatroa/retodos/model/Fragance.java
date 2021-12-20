@@ -19,7 +19,6 @@ public class Fragance {
     private String reference;
     private String brand;
     private String category;
-    private String objetivo;
     private String description;
     private boolean availability = true;
     private double price;

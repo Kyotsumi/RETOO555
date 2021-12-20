@@ -47,10 +47,6 @@ public class FraganceService {
                     accesoryDb.get().setCategory(accesory.getCategory());
                 }
 
-                if (accesory.getObjetivo()!= null) {
-                    accesoryDb.get().setObjetivo(accesory.getObjetivo());
-                }
-
                 if (accesory.getDescription() != null) {
                     accesoryDb.get().setDescription(accesory.getDescription());
                 }
